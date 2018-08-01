@@ -1,0 +1,6 @@
+Country	Continent
+Austria	Europe
+Japan	Asia
+Kazakhstan	Asia
+Kenya	Africa
+
